@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-16T14:05:14 EDT" name="Default suite" finished-at="2021-10-16T14:06:02 EDT" duration-ms="47885">
+    <groups>
+    </groups>
+    <test started-at="2021-10-16T14:05:14 EDT" name="Default test" finished-at="2021-10-16T14:06:02 EDT" duration-ms="47885">
+      <class name="MoneyGaming.MGProject.homePage">
+        <test-method is-config="true" signature="Initialize()[pri:0, instance:MoneyGaming.MGProject.homePage@47987356]" started-at="2021-10-16T14:05:14 EDT" name="Initialize" finished-at="2021-10-16T14:05:16 EDT" duration-ms="2080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method signature="a()[pri:0, instance:MoneyGaming.MGProject.homePage@47987356]" started-at="2021-10-16T14:05:16 EDT" name="a" finished-at="2021-10-16T14:06:02 EDT" duration-ms="45662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:MoneyGaming.MGProject.homePage@47987356]" started-at="2021-10-16T14:06:02 EDT" name="teardown" finished-at="2021-10-16T14:06:02 EDT" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- MoneyGaming.MGProject.homePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
